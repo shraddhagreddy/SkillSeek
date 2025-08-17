@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SkillSeek</string>
+    <string name="select">Select Item</string>
+    <string name="title_activity_homepageskills">homepageskills</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="app_info1">Introducing SkillSeek: Bridging Opportunities for All!</string>
+    <string name="app_info2">🌟 Hirers: Local champions providing job opportunities, supporting uneducated job seekers.</string>
+    <string name="app_info3">🌟 Hirees: Ambitious individuals with untapped skills, seeking their chance to shine.</string>
+    <string name="app_info4">SkillSeek connects these dots, removing middlemen, and fostering local employment opportunities. Discover your potential, unlock new horizons, and thrive with SkillSeek! 💼</string>
+</resources>
