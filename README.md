@@ -85,8 +85,11 @@ app/
 
 ### Author
 Shraddha Reddy  
-📧 [shraddhagreddy@gmail.com](mailto:shraddhagreddy@gmail.com)  
-💡 Always open to collaboration & feedback!
+ [shraddhagreddy@gmail.com](mailto:shraddhagreddy@gmail.com)  
+ Always open to collaboration & feedback!
 
 
+
+## License
+This project is licensed under the [MIT License](LICENSE) © 2025 Shraddha Reddy.
 
