@@ -1,6 +1,8 @@
 ![Language](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Platform](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Backend](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 # SkillSeek 📱
 
