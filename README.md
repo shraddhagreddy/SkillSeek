@@ -7,7 +7,6 @@
 # SkillSeek 📱
 
 SkillSeek is an Android application designed to connect people who **need services** (like plumber, carpenter, painter, cook, etc.) with those who can **offer their skills**.  
-
 It allows users ("hirees") to create profiles, upload their skills, and get discovered by others.  
 
 ---
